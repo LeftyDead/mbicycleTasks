@@ -2,6 +2,7 @@ README
 =======================
 
 Project name - mbicycleTasks
+
 Used: Java 8, Gradle, MySQL
 
 Run
@@ -26,7 +27,7 @@ For Example:
 		
 Important note
 ----------	
-		In task #1, instead of multiplication sign '*' use '$' (for example: "2 * 2" is wrong and "2 $ 2" is right)
+	In task #1, instead of multiplication sign '*' use '$' (for example: "2 * 2" is wrong and "2 $ 2" is right)
 ----------------------------------------------------------
 
 
